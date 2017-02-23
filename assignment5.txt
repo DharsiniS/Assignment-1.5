@@ -1,0 +1,17 @@
+1. Explain hadoop in layman's term
+
+	Hadoop makes it possible to run applications on systems with numerous hardwares and large amount of data.
+	Two major components of Hadoop are- Mapreduce and HDFS.
+	HDFS is used for storage while Mapreduce is used for processing.
+
+2. Explain the components of Hadoop framework
+
+	There are two components in Hadoop framework:
+	HDFS- This deals with the storage purpose.
+	MapReduce-This deals with the processing purpose.
+
+3. Explain the reasons to learn Big data technologies
+	* Demand for big data  skilled employee is high
+	* Because of personal reasons
+	* Inorder to imrpove skills
+	* Inorsder to get highly paid jobs.
